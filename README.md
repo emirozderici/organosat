@@ -1,7 +1,7 @@
 [![reproduce](https://github.com/emirozderici/organosat/actions/workflows/reproduce.yml/badge.svg)](https://github.com/emirozderici/organosat/actions/workflows/reproduce.yml)
 # OrganoSat
 
-Companion code and data for the OrganoSat post-flight evaluation paper. [*(Citation and DOI to be added on publication.)*](https://doi.org/10.5281/zenodo.20827134)
+Companion code and data for the OrganoSat post-flight evaluation paper.  https://doi.org/10.5281/zenodo.20827134
 
 Code and data for the OrganoSat habitability classifier. The decision
 tree is trained in Python on synthetic environment data then exported as a
