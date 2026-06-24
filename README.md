@@ -1,3 +1,4 @@
+[![reproduce](https://github.com/emirozderici/organosat/actions/workflows/reproduce.yml/badge.svg)](https://github.com/emirozderici/organosat/actions/workflows/reproduce.yml)
 # OrganoSat
 
 Companion code and data for the OrganoSat post-flight evaluation paper. *(Citation and DOI to be added on publication.)*
